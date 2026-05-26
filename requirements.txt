@@ -1,0 +1,4 @@
+requests>=2.31.0
+google-generativeai>=0.7.0
+finance-datareader>=0.9.90
+pandas>=2.0.0
